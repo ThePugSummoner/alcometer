@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  align-items: center;
 }
 
 .App-logo {
@@ -36,3 +37,84 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  font-size: larger;
+  font-weight: bold;
+  background-color: antiquewhite;
+  background-image: url(file:///C:/Users/eelke/Downloads/drunkonginnojuice.svg);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  }
+  
+  .form-control {
+    width: 100px;
+  }
+  
+  button {
+    width: 100px;
+    border-radius: 4px;
+  
+  }
+
+  form {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+  }
+
+  input {
+    text-align: center;
+    margin: 5px;
+  }
+  
+  .form-check {
+    margin: 5px;
+  }
+
+  .form-control {
+    margin-right: 25px;
+    margin-left: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  div {
+    display: flex;
+    margin: auto;
+    padding: 5px;
+    width: max-content;
+  }
+  
+  button {
+    margin: auto;
+    font-weight: bold;
+  }
+
+  output {
+    margin-top: 5px;
+    font-size: 1.5rem;
+  }
+
+  label {
+    width: 70px;
+  }
+
+  output {
+    margin: auto;
+    width: 300px;
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-weight: bolder;
+    margin: auto;
+  }
+
+  #root {
+    text-align: center;
+    align-items: center;
+  }
